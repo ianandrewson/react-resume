@@ -1,0 +1,12 @@
+aside{
+  grid-column: 1;
+  background-color: #1c2735;
+  color: white;
+  padding: 2em;
+  font-family: 'Sanchez', serif;
+  h3{
+    color: #ee915a;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+}
