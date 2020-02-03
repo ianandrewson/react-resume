@@ -1,0 +1,6 @@
+.resume{
+  margin: auto;
+  width: 1000px;
+  display: grid;
+  grid-template-columns: 300px 2fr;
+}

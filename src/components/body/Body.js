@@ -4,7 +4,7 @@ import styles from './Body.css';
 
 export default function Body() {
   return (
-    <>
+    <div className={styles.body}>
       <h3>PROJECTS</h3>
         <dl>
           <dt>PI PARTY</dt>
@@ -32,7 +32,7 @@ export default function Body() {
         <dl>
           <dt>ALCHEMY CODE LAB - PORTLAND, OR</dt>
             <dd>
-            Full stack software development.
+            Full stack software development
             </dd>
           <dt>PERFORMER'S HOUSE - SILKEBORG, DENMARK</dt>
             <dd>
@@ -62,6 +62,6 @@ export default function Body() {
             Owner / Chief Studio Technician - Self started music collective and studio focused on collaboration and community.
             </dd>
         </dl>
-    </>
+    </div>
   );
 }

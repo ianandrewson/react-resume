@@ -3,7 +3,7 @@ import styles from './Sidebar.css';
 
 export default function Sidebar() {
   return (
-    <>
+    <aside>
       <div>
         <h3>SUMMARY</h3>
         <p>
@@ -36,6 +36,6 @@ export default function Sidebar() {
           Other:  Git, Github, Heroku, VSCode, TravisCI, Compass, Postman
         </p>
       </div>
-    </>
+    </aside>
   );
 }
