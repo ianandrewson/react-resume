@@ -34,7 +34,7 @@ export default function Body() {
             <dd>
             Full stack software development
             </dd>
-          <dt>PERFORMER'S HOUSE - SILKEBORG, DENMARK</dt>
+          <dt>PERFORMER`&apos`S HOUSE - SILKEBORG, DENMARK</dt>
             <dd>
               Interdiscplinary performing arts school
             </dd>
